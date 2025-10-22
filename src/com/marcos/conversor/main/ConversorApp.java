@@ -1,6 +1,7 @@
 package com.marcos.conversor.main;
 
 import com.marcos.conversor.models.ConversorApi;
+import com.marcos.conversor.models.Monedas;
 
 import java.util.ArrayList;
 import java.util.List;

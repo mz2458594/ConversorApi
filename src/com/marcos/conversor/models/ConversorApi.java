@@ -3,7 +3,6 @@ package com.marcos.conversor.models;
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.marcos.conversor.main.Monedas;
 
 import java.io.IOException;
 import java.net.URI;
